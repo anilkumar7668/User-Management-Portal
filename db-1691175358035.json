@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "ghjghjk",
+      "email": "ghjkfgh",
+      "password": "fghjkhjkl76",
+      "role": "Admin",
+      "id": 1
+    },
+    {
+      "name": "LKJHGFD",
+      "email": "NBVBN",
+      "password": "LKJHGVCXCVBJK5678",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "name": "ghjghjk",
+      "email": "ghjkfgh",
+      "password": "fghjkhjkl76",
+      "role": "Admin",
+      "id": 4
+    },
+    {
+      "name": "ghjghjgjg",
+      "email": "fhgjhjf",
+      "password": "fghjkhl76",
+      "role": "Admin",
+      "id": 5
+    },
+    {
+      "name": "cvbnm,",
+      "email": "fghjk",
+      "password": "fghjkfghjk",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "cvbnm",
+      "email": "lkjhgfcd",
+      "password": "4567jhgf",
+      "role": "client",
+      "id": 7
+    }
+  ]
+}

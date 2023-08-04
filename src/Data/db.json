@@ -1,0 +1,122 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "anilkumar",
+      "email": "anilbilikere@gmail.com",
+      "role": "client"
+    },
+    {
+      "name": "aruna",
+      "email": "aruna@gmail.com",
+      "password": "aruna1332",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "kiran1234",
+      "role": "",
+      "id": 3
+    },
+    {
+      "name": "naveen",
+      "email": "naveen@gmail.com",
+      "password": "naveen123",
+      "role": "client",
+      "id": 4
+    },
+    {
+      "name": "madan",
+      "email": "madan@gmail.com",
+      "password": "madan123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": ",nbnvbnm",
+      "email": "fghj",
+      "password": "fghjkljhgfg",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "jhgfdsdfghj",
+      "email": "lkjhgf",
+      "password": "lhgfcvbjhg",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "name": "xcvbn",
+      "email": "mnbvcvbnb",
+      "password": "mnbvbvbjhgh",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "name": "dfghjhg",
+      "email": "anandabilikere@gmail.com",
+      "password": "jhgfghjhgh",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "name": "dfghjkjhgf",
+      "email": "mjhgvc nb",
+      "password": "jhgfghhgf",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "name": "jgfghjhgfdg",
+      "email": "jhuytfrdfghj",
+      "password": "jhgfcgvhjgfgvhb",
+      "role": "client",
+      "id": 11
+    },
+    {
+      "name": "sdfghjhgf",
+      "email": ",hgfghjhgf",
+      "password": "kjhgfghgf",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "name": "fghjhgf",
+      "email": "jhgfghjhg",
+      "password": "hgfghj",
+      "role": "client",
+      "id": 13
+    },
+    {
+      "name": "dfghjhg",
+      "email": "jhgfdfgh",
+      "password": "ytfrdfvgbhn",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "name": "hgfghjgfd",
+      "email": "jhgfdfghn",
+      "password": "jhgfgh",
+      "role": "client",
+      "id": 15
+    },
+    {
+      "name": "dfghjkkjhgf",
+      "email": "cvbnmnbvc",
+      "password": "ngfdfghg",
+      "role": "user",
+      "id": 16
+    },
+    {
+      "name": "hgfdfghg",
+      "email": "anandabilikere@gmail.com",
+      "password": "naveen123",
+      "role": "client",
+      "id": 17
+    }
+  ]
+}
